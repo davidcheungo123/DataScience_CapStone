@@ -33,8 +33,12 @@ We employed magenta.js, developed by Google, to handle the generation part when 
 
 For more information, please contact
 #### Hardware development
+
 Christy, tangkaying@gmail.com
+
 Mandy, mandy200525@gmail.com
 #### Software development
+
 Colton, chantszchau0921@gmail.com
+
 David, cheungyuk123@gmail.com
