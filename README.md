@@ -8,4 +8,4 @@ The goal of this project is to provide an interactive toy and services for child
 
 The demonstration in the video is the service that users can purchase after trying the functionality, which is hosted by the website, themselves. The concept of the business can be descripted as following flow chart:
 
-<p align="center"><img  src="./image/businessFlow.png" alt="businessFlow" width="1000"/></p>
+<p align="center"><img  src="./image/businessFlow.png" alt="businessFlow" width="700"/></p>
