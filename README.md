@@ -4,7 +4,7 @@
 ## Introduction:
 The goal of this project is to provide an interactive toy and services for children to develop interests in piano, or general music. This project involves *hardware (Arduino), software (React framework), and machine learning (Magenta)*. For the demonstration, please click the link below so that you can gain an overall picture how it works.
 
-<p align="center">[Click this link](https://youtu.be/_ltfEAWUCWY)</p>
+<p align="center">https://youtu.be/_ltfEAWUCWY</p>
 
 The demonstration in the video is the service that users can purchase after trying the functionality, which are hosted by the website, themselves. The concept of the business can be descripted as following flow chart:
 
