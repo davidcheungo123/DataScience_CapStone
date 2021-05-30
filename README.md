@@ -23,5 +23,18 @@ Developed by teammates, hardware is one of the most important part in our projec
 
 Mainly developed by me and another teammate, this website includes trial for user to try the functionality and login page for user to really use the functionality after purchasing the product. Software development handles converting singals from the hardware ,general logics for implementing a website and machine learning part.
 
-### Machine Learning/ Deep Learning,
-<p align="center"><img  src="./image/magenta_cleared.png" alt="magenta" width="300"/></p>
+### Machine Learning/ Deep Learning:
+<p align="center"><img  src="./image/magenta_cleared.png" alt="magenta" width="200"/></p>
+
+We employed magenta.js, developed by Google, to handle the generation part when user is done pressing desired button on the piano and would like to generate subsequent music according to the music they inputed. 
+
+## More information:
+<p align="center"><img  src="./image/pitch.png" alt="one-page-pitch" width="700"/></p>
+
+For more information, please contact
+#### Hardware development
+Christy, tangkaying@gmail.com
+Mandy, mandy200525@gmail.com
+#### Software development
+Colton, chantszchau0921@gmail.com
+David, cheungyuk123@gmail.com
