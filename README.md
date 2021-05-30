@@ -22,3 +22,6 @@ Developed by teammates, hardware is one of the most important part in our projec
 <p align="center"><img  src="./image/web-view.png" alt="web-view" width="500"/></p>
 
 Mainly developed by me and another teammate, this website includes trial for user to try the functionality and login page for user to really use the functionality after purchasing the product. Software development handles converting singals from the hardware ,general logics for implementing a website and machine learning part.
+
+### Machine Learning/ Deep Learning,
+<p align="center"><img  src="./image/magenta_cleared.png" alt="magenta" width="300"/></p>
