@@ -13,5 +13,6 @@ The demonstration in the video is the service that users can purchase after tryi
 Customer will get an activation code after purchasing the project, the activation code will provide an account with unqiue token, when user is trying to use thee service, the token will be validated and finally redirect them to the service webpage. The process mentioned above is done by our server, make customer easy to access the service.
 
 ## Project Details:
-<p align="center"><img  src="./image/hardware.gif" alt="hardwareMotion" width="700"/></p>
+### Hardware:
+<p align="center"><img  src="./image/hardware.gif" alt="hardwareMotion" width="300"/></p>
 
