@@ -6,6 +6,12 @@ The goal of this project is to provide an interactive toy and services for child
 
 [Click this link](https://youtu.be/_ltfEAWUCWY)
 
-The demonstration in the video is the service that users can purchase after trying the functionality, which is hosted by the website, themselves. The concept of the business can be descripted as following flow chart:
+The demonstration in the video is the service that users can purchase after trying the functionality, which are hosted by the website, themselves. The concept of the business can be descripted as following flow chart:
 
 <p align="center"><img  src="./image/businessFlow.png" alt="businessFlow" width="700"/></p>
+
+Customer will get an activation code after purchasing the project, the activation code will provide an account with unqiue token, when user is trying to use thee service, the token will be validated and finally redirect them to the service webpage. The process mentioned above is done by our server, make customer easy to access the service.
+
+## Project Details:
+
+
