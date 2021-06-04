@@ -16,7 +16,7 @@ Customer will get an activation code after purchasing the project, the activatio
 ### Hardware:
 <p align="center"><img  src="./image/hardware.gif" alt="hardwareMotion" width="300"/></p>
 
-Developed by teammates, hardware is one of the most important part in our project. This part involves hardware design (how to make a paper transform into piano shape , how to make paper conductive, etc.) and arduino development, transmitting and converting signals to the website and handle logics related to the circuit itself. 
+Developed by teammates, hardware is one of the most important part in our project. This part involves hardware design (how to make a paper transform into piano shape , how to make paper conductive, etc.) and arduino development, transmitting, converting signals to the website and handling logics related to the circuit itself. 
 
 ### Software:
 <p align="center"><img  src="./image/web-view.png" alt="web-view" width="500"/></p>
